@@ -81,8 +81,8 @@ Limit parallel instances (RAM control):
 MAX_PARALLEL_BOTS=8 HEADLESS=1 python3 bot_runner.py
 ```
 
-Each headless Chromium instance uses ~130–200 MB RAM.  
-On a 16 GB VPS you can safely run **40–50 bots**.
+Each headless Chromium instance uses ~700–800 MB RAM in practice.  
+On a 16 GB VPS you can safely run **15–18 bots** (tested: 15 bots = ~11.3 GB RAM).
 
 ## Managing bots
 
