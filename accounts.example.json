@@ -1,0 +1,13 @@
+{
+  "bot_login": "login_bot",
+  "bot_password": "password_bot",
+  "world": "NAME_WORLD",
+  "accounts": [
+    {
+      "grepolis_login": "account_name",
+      "grepolis_password": "password",
+      "grepolis_url": "https://xxxx.grepolis.com",
+      "proxy": "http://IP:PORT"
+    }
+  ]
+}
